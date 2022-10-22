@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Example.SimpleConstraints();
-            Console.ReadKey(true);
+            Example.SmallSudoku();
+            //Console.ReadKey(true);
         }
     }
 }
